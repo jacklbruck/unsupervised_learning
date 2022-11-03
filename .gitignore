@@ -1,5 +1,6 @@
-/.DS_Store
-/.ipynb_checkpoints
-/tmp.ipynb
-/unsupervised_learning.egg-info
-/venv/
+.DS_Store
+.ipynb_checkpoints
+*.ipynb
+*.egg-info
+__pycache__/
+venv/
