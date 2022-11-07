@@ -1,2 +1,7 @@
+category_encoders
 scikit-learn
+imblearn
 openml
+pandas
+numpy
+tqdm
